@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>编程语言 on 开放资源</title>
+    <link>https://open.sutu.tech/docs/prog/</link>
+    <description>Recent content in 编程语言 on 开放资源</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>&amp;copy;{year}, 素图科技 版权所有</copyright>
+    <lastBuildDate>Sat, 11 Jan 2020 14:09:21 +0900</lastBuildDate>
+    
+        <atom:link href="https://open.sutu.tech/docs/prog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>C#</title>
+        <link>https://open.sutu.tech/docs/prog/cs/</link>
+        <pubDate>Sat, 11 Jan 2020 14:09:21 +0900</pubDate>
+        
+        <guid>https://open.sutu.tech/docs/prog/cs/</guid>
+        <description>Docs page.
+heleo</description>
+      </item>
+      
+      <item>
+        <title>Elm</title>
+        <link>https://open.sutu.tech/docs/prog/elm/</link>
+        <pubDate>Sat, 11 Jan 2020 14:09:21 +0900</pubDate>
+        
+        <guid>https://open.sutu.tech/docs/prog/elm/</guid>
+        <description>Docs page.
+heleo</description>
+      </item>
+      
+      <item>
+        <title>Image Processing</title>
+        <link>https://open.sutu.tech/docs/prog/imageprocessing/</link>
+        <pubDate>Tue, 28 Jan 2020 00:38:48 +0900</pubDate>
+        
+        <guid>https://open.sutu.tech/docs/prog/imageprocessing/</guid>
+        <description>Markdown here</description>
+      </item>
+      
+    
+  </channel>
+</rss>

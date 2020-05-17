@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>资源 on 开放资源</title>
+    <link>https://open.sutu.tech/docs/</link>
+    <description>Recent content in 资源 on 开放资源</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>&amp;copy;{year}, 素图科技 版权所有</copyright>
+    <lastBuildDate>Sat, 11 Jan 2020 14:09:21 +0900</lastBuildDate>
+    
+        <atom:link href="https://open.sutu.tech/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Quick Start</title>
+        <link>https://open.sutu.tech/docs/quickstart/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:41 +0900</pubDate>
+        
+        <guid>https://open.sutu.tech/docs/quickstart/</guid>
+        <description>Markdown here</description>
+      </item>
+      
+      <item>
+        <title>DevOps</title>
+        <link>https://open.sutu.tech/docs/deploy/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://open.sutu.tech/docs/deploy/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>产品设计</title>
+        <link>https://open.sutu.tech/docs/design/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://open.sutu.tech/docs/design/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>技术基础</title>
+        <link>https://open.sutu.tech/docs/dev/</link>
+        <pubDate>Tue, 28 Jan 2020 00:36:39 +0900</pubDate>
+        
+        <guid>https://open.sutu.tech/docs/dev/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>区块链</title>
+        <link>https://open.sutu.tech/docs/blockchain/</link>
+        <pubDate>Sat, 11 Jan 2020 14:09:21 +0900</pubDate>
+        
+        <guid>https://open.sutu.tech/docs/blockchain/</guid>
+        <description>Docs page.
+heleo</description>
+      </item>
+      
+      <item>
+        <title>编程语言</title>
+        <link>https://open.sutu.tech/docs/prog/</link>
+        <pubDate>Sat, 11 Jan 2020 14:09:21 +0900</pubDate>
+        
+        <guid>https://open.sutu.tech/docs/prog/</guid>
+        <description>Docs page.
+heleo</description>
+      </item>
+      
+    
+  </channel>
+</rss>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>区块链 on 开放资源</title>
+    <link>https://open.sutu.tech/docs/blockchain/</link>
+    <description>Recent content in 区块链 on 开放资源</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>&amp;copy;{year}, 素图科技 版权所有</copyright>
+    <lastBuildDate>Sat, 11 Jan 2020 14:09:21 +0900</lastBuildDate>
+    
+        <atom:link href="https://open.sutu.tech/docs/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Related content</title>
+        <link>https://open.sutu.tech/docs/blockchain/relatedcontent/</link>
+        <pubDate>Tue, 28 Jan 2020 00:39:09 +0900</pubDate>
+        
+        <guid>https://open.sutu.tech/docs/blockchain/relatedcontent/</guid>
+        <description>Markdown here</description>
+      </item>
+      
+      <item>
+        <title>Page Resources</title>
+        <link>https://open.sutu.tech/docs/blockchain/pageresources/</link>
+        <pubDate>Tue, 28 Jan 2020 00:39:06 +0900</pubDate>
+        
+        <guid>https://open.sutu.tech/docs/blockchain/pageresources/</guid>
+        <description>Markdown here</description>
+      </item>
+      
+      <item>
+        <title>Page Bundles</title>
+        <link>https://open.sutu.tech/docs/blockchain/pagebundles/</link>
+        <pubDate>Tue, 28 Jan 2020 00:38:59 +0900</pubDate>
+        
+        <guid>https://open.sutu.tech/docs/blockchain/pagebundles/</guid>
+        <description>Markdown here</description>
+      </item>
+      
+    
+  </channel>
+</rss>
