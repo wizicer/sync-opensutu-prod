@@ -15,20 +15,20 @@
     
       
       <item>
-        <title>Quick Start</title>
-        <link>https://open.sutu.tech/docs/quickstart/</link>
-        <pubDate>Tue, 28 Jan 2020 00:34:41 +0900</pubDate>
+        <title>公司文化</title>
+        <link>https://open.sutu.tech/docs/culture/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://open.sutu.tech/docs/quickstart/</guid>
-        <description>Markdown here</description>
+        <guid>https://open.sutu.tech/docs/culture/</guid>
+        <description></description>
       </item>
       
       <item>
-        <title>DevOps</title>
-        <link>https://open.sutu.tech/docs/deploy/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        <title>技术基础</title>
+        <link>https://open.sutu.tech/docs/dev/</link>
+        <pubDate>Tue, 28 Jan 2020 00:36:39 +0900</pubDate>
         
-        <guid>https://open.sutu.tech/docs/deploy/</guid>
+        <guid>https://open.sutu.tech/docs/dev/</guid>
         <description></description>
       </item>
       
@@ -42,11 +42,21 @@
       </item>
       
       <item>
-        <title>技术基础</title>
-        <link>https://open.sutu.tech/docs/dev/</link>
-        <pubDate>Tue, 28 Jan 2020 00:36:39 +0900</pubDate>
+        <title>编程语言</title>
+        <link>https://open.sutu.tech/docs/prog/</link>
+        <pubDate>Sat, 11 Jan 2020 14:09:21 +0900</pubDate>
         
-        <guid>https://open.sutu.tech/docs/dev/</guid>
+        <guid>https://open.sutu.tech/docs/prog/</guid>
+        <description>Docs page.
+heleo</description>
+      </item>
+      
+      <item>
+        <title>技术运营</title>
+        <link>https://open.sutu.tech/docs/ops/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
+        
+        <guid>https://open.sutu.tech/docs/ops/</guid>
         <description></description>
       </item>
       
@@ -61,13 +71,12 @@ heleo</description>
       </item>
       
       <item>
-        <title>编程语言</title>
-        <link>https://open.sutu.tech/docs/prog/</link>
-        <pubDate>Sat, 11 Jan 2020 14:09:21 +0900</pubDate>
+        <title>摄影</title>
+        <link>https://open.sutu.tech/docs/photography/</link>
+        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://open.sutu.tech/docs/prog/</guid>
-        <description>Docs page.
-heleo</description>
+        <guid>https://open.sutu.tech/docs/photography/</guid>
+        <description></description>
       </item>
       
     

@@ -18,27 +18,57 @@
   </url>
   
   <url>
-    <loc>https://open.sutu.tech/docs/quickstart/</loc>
-    <lastmod>2020-01-28T00:34:41+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://open.sutu.tech/docs/deploy/</loc>
+    <loc>https://open.sutu.tech/docs/culture/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://open.sutu.tech/docs/deploy/test1/</loc>
+    <loc>https://open.sutu.tech/docs/ops/test/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open.sutu.tech/docs/culture/test1/</loc>
     <lastmod>2020-01-30T00:38:25+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://open.sutu.tech/docs/design/</loc>
-    <lastmod>2020-01-28T00:34:39+09:00</lastmod>
+    <loc>https://open.sutu.tech/docs/ops/devops/test1/</loc>
+    <lastmod>2020-01-30T00:38:25+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://open.sutu.tech/docs/deploy/ttttest/</loc>
+    <loc>https://open.sutu.tech/docs/ops/test/test1/</loc>
+    <lastmod>2020-01-30T00:38:25+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open.sutu.tech/docs/photography/test1/</loc>
+    <lastmod>2020-01-30T00:38:25+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open.sutu.tech/docs/ops/devops/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open.sutu.tech/docs/culture/ttttest/</loc>
+    <lastmod>2020-01-30T00:38:25+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open.sutu.tech/docs/ops/devops/ttttest/</loc>
+    <lastmod>2020-01-30T00:38:25+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open.sutu.tech/docs/ops/test/ttttest/</loc>
+    <lastmod>2020-01-30T00:38:25+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open.sutu.tech/docs/photography/ttttest/</loc>
     <lastmod>2020-01-30T00:38:25+09:00</lastmod>
   </url>
   
@@ -58,8 +88,28 @@
   </url>
   
   <url>
+    <loc>https://open.sutu.tech/docs/design/</loc>
+    <lastmod>2020-01-28T00:34:39+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open.sutu.tech/docs/prog/</loc>
+    <lastmod>2020-01-11T14:09:21+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open.sutu.tech/docs/ops/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://open.sutu.tech/docs/blockchain/</loc>
     <lastmod>2020-01-11T14:09:21+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open.sutu.tech/docs/photography/</loc>
+    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
@@ -125,11 +175,6 @@
                 hreflang="zh"
                 href="https://open.sutu.tech/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://open.sutu.tech/docs/prog/</loc>
-    <lastmod>2020-01-11T14:09:21+09:00</lastmod>
   </url>
   
   <url>
