@@ -78,6 +78,16 @@
       </item>
       
       <item>
+        <title>软件著作权</title>
+        <link>https://open.sutu.tech/docs/ops/ip/software-copyright/</link>
+        <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://open.sutu.tech/docs/ops/ip/software-copyright/</guid>
+        <description>软件著作权要求代码的处理方法
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17  @echo off set &amp;#34;basedir=%CD%\folder&amp;#34; set outfile=output.txt set first=Main.elm rem 先放入口文件 (for /r &amp;#34;%basedir%&amp;#34; %%f in (*.elm) do ((Echo &amp;#34;%%f&amp;#34; | FIND /I &amp;#34;%first%&amp;#34; 1&amp;gt;NUL) &amp;amp;&amp;amp; ( type &amp;#34;%%~ff&amp;#34;))) &amp;gt; &amp;#34;%outfile%&amp;#34; rem 再放其他文件 (for /r &amp;#34;%basedir%&amp;#34; %%f in (*.elm) do ((Echo &amp;#34;%%f&amp;#34; | FIND /I &amp;#34;%first%&amp;#34; 1&amp;gt;NUL) || ( type &amp;#34;%%~ff&amp;#34;))) &amp;gt;&amp;gt; &amp;#34;%outfile%&amp;#34; rem 清理空行 echo :g/^^$/d &amp;gt; indent.</description>
+      </item>
+      
+      <item>
         <title>ttttest</title>
         <link>https://open.sutu.tech/docs/culture/ttttest/</link>
         <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
