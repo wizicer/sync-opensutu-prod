@@ -15,6 +15,17 @@
     
       
       <item>
+        <title>开发小技巧</title>
+        <link>https://open.sutu.tech/docs/dev/tricks/</link>
+        <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://open.sutu.tech/docs/dev/tricks/</guid>
+        <description>端口被占用 在PowerShell中使用以下语句查看占用指定端口的应用程序。
+请自行替换portNumber，例如8888
+1  Get-Process -Id (Get-NetTCPConnection -LocalPort portNumber).OwningProcess   </description>
+      </item>
+      
+      <item>
         <title>Security</title>
         <link>https://open.sutu.tech/docs/dev/security/</link>
         <pubDate>Tue, 28 Jan 2020 00:36:19 +0900</pubDate>
