@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://open.sutu.tech/docs/ops/devops/caddy/</loc>
+    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://open.sutu.tech/docs/culture/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
@@ -29,11 +34,6 @@
   
   <url>
     <loc>https://open.sutu.tech/docs/culture/test1/</loc>
-    <lastmod>2020-01-30T00:38:25+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://open.sutu.tech/docs/ops/devops/test1/</loc>
     <lastmod>2020-01-30T00:38:25+09:00</lastmod>
   </url>
   

@@ -15,12 +15,17 @@
     
       
       <item>
-        <title>Test 1</title>
-        <link>https://open.sutu.tech/docs/ops/devops/test1/</link>
-        <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
+        <title>Caddy常见问题</title>
+        <link>https://open.sutu.tech/docs/ops/devops/caddy/</link>
+        <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
         
-        <guid>https://open.sutu.tech/docs/ops/devops/test1/</guid>
-        <description></description>
+        <guid>https://open.sutu.tech/docs/ops/devops/caddy/</guid>
+        <description>[WARNING] Stapling OCSP: no OCSP stapling 出现以下错误：
+Activating privacy features... 2020/04/01 23:31:38 [WARNING] Stapling OCSP: no OCSP stapling for [xxx.xxx.xxx]: making OCSP request: Post http://ocsp.int-x3.letsencrypt.org: dial tcp 88.191.249.182:80: i/o timeout 原因： 中国的网络会屏蔽OCSP的域名ocsp.int-x3.letsencrypt.org，因此需要修改hosts文件
+解决方法：
+hosts文件中新增该项目，类似于
+23.59.247.122 ocsp.int-x3.letsencrypt.org 注意该ip可能会发生变化，查找该ip的方法，是使用非中国大陆的服务器去ping该域名。
+Ref</description>
       </item>
       
       <item>
